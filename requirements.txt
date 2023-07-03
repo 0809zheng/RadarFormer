@@ -1,0 +1,5 @@
+numpy
+torch
+scipy
+opencv-python
+pytorch_metric_learning
